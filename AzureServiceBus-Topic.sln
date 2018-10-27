@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureServiceBus-Topic", "AzureServiceBus-Topic\AzureServiceBus-Topic.csproj", "{EFED12F7-055A-4697-A46B-8E5E7C3DFF17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureServiceBus-TopicClient", "AzureServiceBus-TopicClient\AzureServiceBus-TopicClient.csproj", "{3EAB324B-99E2-4C8A-932B-CA0E48BC68AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFED12F7-055A-4697-A46B-8E5E7C3DFF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFED12F7-055A-4697-A46B-8E5E7C3DFF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFED12F7-055A-4697-A46B-8E5E7C3DFF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFED12F7-055A-4697-A46B-8E5E7C3DFF17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EAB324B-99E2-4C8A-932B-CA0E48BC68AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EAB324B-99E2-4C8A-932B-CA0E48BC68AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EAB324B-99E2-4C8A-932B-CA0E48BC68AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EAB324B-99E2-4C8A-932B-CA0E48BC68AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5F2C3D3-B228-42DE-B7D7-2D014958F2C5}
+	EndGlobalSection
+EndGlobal
